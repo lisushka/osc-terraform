@@ -1,3 +1,5 @@
+# Deploying an open-source project to Digital Ocean using Terraform and Terraform Cloud - Transcript
+
 Hello everyone!  It is really good to be here with you today, albeit in recorded format, at HashiTalks Australia and New Zealand.  And I am here to talk to you about an open-source project of mine, and how my team and I deployed it to Digital Ocean using Terraform and Terraform Cloud. Obviously, with that, I'm talking about a bunch of different tools.  So if you want to know about all of the tools that I used, you can scan the QR code on the slide that's up at the moment, or go to the Github link.  That has a list of all of the tooling, as well as some sources of- tips and tricks that I used in working out how to put things together.
 
 To begin with, I would like to acknowledge the Wurundjeri people of the Kulin Nation, on whose land this recording is being made.  This is, and always will be, Aboriginal land.  Their sovereignty is never ceded.
