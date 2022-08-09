@@ -24,6 +24,7 @@
 
 ## Images
 
+* [**Billions of Dollars!**](https://tinyurl.com/osc-terraform10), Baynham Goredema (CC BY 2.0)
 * A Sleepy Sheepy, [Alayna P.](https://wheretofind.me/@fluttergirly) (all rights reserved; used with permission)
 
 [Back to main talks repo](https://github.com/lisushka/talks)
