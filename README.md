@@ -2,7 +2,7 @@
 
 ## Presentations
 
-- **HashiTalks Australia and New Zealand 2022**, 2022-08-11 (open captions, [transcript](transcript.md), license not yet confirmed)
+- **HashiTalks Australia and New Zealand 2022**, 2022-08-11 (open captions, [transcript](transcript.md), CC BY-NC-SA 4.0)
 
 ## References
 
